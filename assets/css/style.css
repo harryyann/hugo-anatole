@@ -381,7 +381,7 @@ Language Switch
 }
 
 .sidebar .logo-title .title h3 {
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-size: 2.2rem;
   font-weight: bold;
   letter-spacing: 2px;
@@ -427,14 +427,14 @@ Language Switch
 }
 
 .post .post-title h1 {
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-size: 3em;
   letter-spacing: 1px;
   line-height: 1;
 }
 
 .post .post-title h2 {
-  text-transform: uppercase;
+  text-transform: capitalize;
   letter-spacing: 1px;
   font-size: 2.6rem;
   line-height: 1;
@@ -443,7 +443,7 @@ Language Switch
 }
 
 .post .post-title h3 {
-  text-transform: uppercase;
+  text-transform: capitalize;
   letter-spacing: 1px;
   line-height: 1;
   font-weight: 600;
